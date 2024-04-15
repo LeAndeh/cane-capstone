@@ -9,7 +9,9 @@ list of materials:
 - DYMH-103 Mini Load Cell
 
 eeprom.ino was the code used to save data locally onto the onboard memory
+
 read-load-cell was the main code used to read data from the loadcell
+
 calibrate-load-cell was to calibrate the load cell to get accurate readings
 
 A “smart” cane that is capable of collecting data
